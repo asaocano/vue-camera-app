@@ -1,0 +1,6 @@
+{
+	"appId": "com.asaocano.vuememories",
+	"appName": "Vue Memories",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
